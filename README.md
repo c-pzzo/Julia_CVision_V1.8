@@ -5,3 +5,5 @@ No copyright infringement is intended.
 
 Every deprecated function has been substituded taking as reference official Release Notes.
 https://github.com/JuliaLang/julia/blob/57ce0e66e9490dcfa01e1e1789fc07bdcac157be/HISTORY.md
+
+*Copyright notice: Pixabay provides images under CCO Creative Commons. They are free for commercial use and no attributions are required.*
